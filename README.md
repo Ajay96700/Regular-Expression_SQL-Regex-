@@ -5,7 +5,7 @@ from DimProduct
 where EnglishProductName like '%Chainring%'
 ```
 
---Find productalternatekey where 2nd character is R
+## Find productalternatekey where 2nd character is R
 ```SQL
 select *
 from DimProduct
