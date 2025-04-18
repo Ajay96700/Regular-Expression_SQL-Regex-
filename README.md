@@ -1,6 +1,6 @@
 # SQL Regular expression for Pattern matching
 
-![Logo](RegEx-1-1.png)
+![Logo](regex.png)
 
  - %	Any string of Zero or more characters
  - _ (Underscore)	Any single character
