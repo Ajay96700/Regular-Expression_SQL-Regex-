@@ -1,3 +1,9 @@
+# SQL Regular expression for Pattern matching
+
+ - %	Any string of Zero or more characters
+ - _ (Underscore)	Any single character
+ - []	Any single character within the range
+ - [^]	Any single character not within the range
 
 ```SQL
 select *
